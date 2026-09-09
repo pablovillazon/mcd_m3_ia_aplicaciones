@@ -1,0 +1,2 @@
+DOC-F04
+El usuario indica que realizó una transferencia interbancaria ayer a las 16:40. El monto fue descontado de su cuenta, pero el destinatario todavía no recibió los fondos. Solicita verificar el estado de la operación.

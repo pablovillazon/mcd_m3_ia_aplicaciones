@@ -1,0 +1,12 @@
+PROCEDIMIENTO OPERATIVO SIMPLIFICADO
+
+Para incidentes de producción:
+1. Confirmar impacto y alcance.
+2. Preservar evidencia antes de realizar cambios destructivos.
+3. Revisar cambios recientes relacionados con el componente afectado.
+4. Mitigar el impacto si existe una acción reversible y segura.
+5. Escalar cuando el impacto supere el umbral definido por el equipo.
+6. Documentar hipótesis, acciones realizadas y resultados.
+7. Después de estabilizar el servicio, realizar análisis de causa raíz.
+
+No debe ejecutarse un rollback solamente por sospecha; primero debe verificarse que el cambio esté relacionado con el comportamiento observado.

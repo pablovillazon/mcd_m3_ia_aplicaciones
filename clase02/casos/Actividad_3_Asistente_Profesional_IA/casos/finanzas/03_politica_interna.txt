@@ -1,0 +1,8 @@
+CRITERIOS INTERNOS SIMPLIFICADOS
+
+Para una evaluación preliminar:
+- Deben identificarse ingresos, gastos y obligaciones conocidas.
+- La capacidad de pago debe analizarse considerando la nueva cuota estimada.
+- Ingresos extraordinarios o de origen no confirmado no deben tratarse automáticamente como ingresos permanentes.
+- Una evaluación preliminar no constituye aprobación ni rechazo definitivo.
+- Cuando falten datos relevantes, el analista debe solicitar información adicional.

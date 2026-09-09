@@ -1,0 +1,2 @@
+DOC-T06
+El sistema de monitoreo detectó múltiples intentos fallidos de autenticación contra una cuenta administrativa desde una dirección IP externa. Los intentos continúan aumentando durante los últimos quince minutos.

@@ -1,0 +1,2 @@
+DOC-F06
+El sistema registra cinco intentos de compra consecutivos con la misma tarjeta en comercios ubicados en diferentes ciudades durante un período de diez minutos. Dos operaciones fueron rechazadas y tres fueron aprobadas.

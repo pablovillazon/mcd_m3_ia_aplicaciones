@@ -1,0 +1,2 @@
+DOC-F02
+La cliente solicita actualizar su número telefónico y correo electrónico asociados a su cuenta. Adjunta una copia de su documento de identidad y solicita confirmación cuando los datos hayan sido modificados.

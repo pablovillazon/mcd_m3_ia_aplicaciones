@@ -1,0 +1,2 @@
+DOC-T05
+El equipo de desarrollo solicita desplegar una nueva versión de la aplicación en producción esta noche. El cambio incluye modificaciones en la base de datos y todavía no se ha adjuntado el plan de reversión.

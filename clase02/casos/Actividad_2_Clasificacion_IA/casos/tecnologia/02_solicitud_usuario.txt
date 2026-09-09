@@ -1,0 +1,2 @@
+DOC-T02
+Un usuario solicita instalar una herramienta de edición de PDF en su equipo. La aplicación está incluida en el catálogo de software autorizado.

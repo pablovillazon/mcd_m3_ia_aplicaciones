@@ -1,0 +1,11 @@
+CASO 2 — CONTRATO DE SERVICIOS
+
+La empresa Servicios Integrales del Sur S.R.L. contrata a Tecnología Andina S.A. para prestar servicios de mantenimiento y soporte de infraestructura informática durante un período de doce meses.
+
+El servicio comenzará el 1 de octubre de 2026 y finalizará el 30 de septiembre de 2027. El contrato establece un pago mensual de Bs 9.500, facturado dentro de los primeros cinco días de cada mes.
+
+El proveedor deberá atender incidentes críticos en un plazo máximo de cuatro horas y los incidentes de prioridad media en un plazo máximo de ocho horas hábiles. Las solicitudes deberán registrarse mediante el sistema de mesa de ayuda definido por el contratante.
+
+Cualquiera de las partes podrá solicitar la terminación anticipada con una notificación escrita de treinta días. El contrato también establece que la información técnica y comercial intercambiada durante la prestación del servicio tendrá carácter confidencial.
+
+La renovación no será automática y deberá ser acordada por escrito por ambas partes.

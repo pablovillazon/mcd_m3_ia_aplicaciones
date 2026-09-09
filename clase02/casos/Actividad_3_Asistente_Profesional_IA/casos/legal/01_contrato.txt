@@ -1,0 +1,12 @@
+CASO LEGAL — CONTRATO DE SERVICIOS
+
+Contrato entre Empresa Andina S.A. y Servicios Delta Ltda.
+
+Objeto: soporte y mantenimiento de una plataforma informática.
+Vigencia: 1 de octubre de 2026 al 30 de septiembre de 2027.
+Renovación: automática por períodos de un año, salvo comunicación escrita con 30 días de anticipación.
+Pago: Bs 18.000 mensuales.
+SLA: incidentes críticos deben recibir respuesta inicial en un máximo de 2 horas.
+Terminación anticipada: cualquiera de las partes puede terminar por incumplimiento material no subsanado dentro de 15 días después de una notificación formal.
+Confidencialidad: las obligaciones continúan durante 3 años después de la terminación.
+Observación: el documento entregado al equipo no contiene anexos técnicos.

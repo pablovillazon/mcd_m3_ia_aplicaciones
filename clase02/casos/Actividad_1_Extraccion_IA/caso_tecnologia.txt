@@ -1,0 +1,11 @@
+CASO 3 — INCIDENTE DE SOPORTE
+
+El lunes 7 de septiembre a las 09:18, el área de ventas informó que los usuarios externos no podían acceder al portal de clientes. Los usuarios internos continuaban trabajando normalmente.
+
+El equipo de soporte verificó que el servicio web permanecía activo, pero los registros mostraban un incremento de respuestas HTTP 502 desde aproximadamente las 08:55.
+
+A las 09:30 se identificó que el problema comenzó después de una modificación realizada en la configuración del proxy inverso. El cambio había sido desplegado durante la madrugada.
+
+No se reportaron pérdidas de información. Como medida temporal, el equipo restauró la configuración anterior y a las 09:47 el acceso externo volvió a funcionar.
+
+El incidente fue clasificado inicialmente como crítico porque afectaba a todos los clientes externos. Se recomienda revisar el procedimiento de cambios y agregar una prueba automática de validación antes de futuros despliegues.

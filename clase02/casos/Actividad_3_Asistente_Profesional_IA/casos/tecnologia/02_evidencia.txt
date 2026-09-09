@@ -1,0 +1,19 @@
+EVIDENCIA TÉCNICA
+
+Logs del reverse proxy:
+09:17:58 upstream connection timeout
+09:18:03 upstream connection timeout
+09:18:10 upstream connection timeout
+09:19:01 upstream connection timeout
+
+Métricas:
+- CPU aplicación: 42%
+- Memoria aplicación: 58%
+- Conexiones activas: 91% del límite configurado
+- Latencia promedio: aumentó de 220 ms a 1.8 s
+
+Prueba manual:
+- Instancia A: responde correctamente en 620 ms.
+- Instancia B: responde correctamente en 2.4 s y presenta algunos timeouts.
+
+No existe evidencia suficiente para afirmar todavía que la configuración del proxy sea la única causa.

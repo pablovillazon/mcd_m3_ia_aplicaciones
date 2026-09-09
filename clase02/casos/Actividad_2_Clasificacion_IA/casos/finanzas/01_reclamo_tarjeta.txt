@@ -1,0 +1,2 @@
+DOC-F01
+El cliente informa que realizó una compra con su tarjeta por Bs 3.850 en un comercio que no reconoce. Solicita bloquear la tarjeta y revisar la transacción. Indica que la operación aparece registrada esta mañana.

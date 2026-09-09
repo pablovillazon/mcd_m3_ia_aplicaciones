@@ -1,0 +1,11 @@
+CASO TECNOLÓGICO — INCIDENTE DE PRODUCCIÓN
+
+Sistema: Portal de atención al cliente
+Fecha: 21/09/2026
+Inicio aproximado: 09:18
+Síntoma: usuarios reciben HTTP 502 de forma intermitente.
+Impacto: aproximadamente 35% de las solicitudes fallan.
+Cambio reciente: actualización de configuración del reverse proxy realizada a las 08:50.
+Aplicación: dos instancias activas.
+Base de datos: sin cambios durante la ventana del incidente.
+Último despliegue de aplicación: 17/09/2026.

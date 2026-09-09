@@ -1,0 +1,2 @@
+DOC-F05
+La cliente solicita el extracto de movimientos correspondiente al mes anterior para utilizarlo en un trámite administrativo. No reporta problemas con ninguna transacción.

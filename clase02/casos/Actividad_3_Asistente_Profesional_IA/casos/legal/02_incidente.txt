@@ -1,0 +1,17 @@
+INCIDENTE CONTRACTUAL
+
+Durante septiembre de 2026 se registraron tres incidentes críticos.
+
+Incidente 1:
+- Reportado: 03/09/2026 10:15
+- Primera respuesta registrada: 03/09/2026 14:05
+
+Incidente 2:
+- Reportado: 11/09/2026 09:40
+- Primera respuesta registrada: 11/09/2026 11:10
+
+Incidente 3:
+- Reportado: 22/09/2026 16:20
+- Primera respuesta registrada: 22/09/2026 17:35
+
+El área técnica afirma que algunos tickets fueron abiertos inicialmente por correo y registrados posteriormente en el sistema.

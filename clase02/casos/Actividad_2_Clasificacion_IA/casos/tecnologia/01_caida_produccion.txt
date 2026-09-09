@@ -1,0 +1,2 @@
+DOC-T01
+El sistema de producción dejó de responder para todos los usuarios externos. Los registros muestran errores 503 y el monitoreo indica que dos servidores presentan alta utilización de CPU.

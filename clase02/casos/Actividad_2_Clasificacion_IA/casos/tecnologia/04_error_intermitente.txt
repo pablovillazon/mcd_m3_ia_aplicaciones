@@ -1,0 +1,2 @@
+DOC-T04
+Un usuario reporta que una aplicación interna presenta errores ocasionales al guardar información. El problema no impide completamente el trabajo y ocurre aproximadamente dos veces al día.
