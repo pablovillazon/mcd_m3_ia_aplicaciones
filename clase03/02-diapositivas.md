@@ -1,9 +1,3 @@
----
-
-marp: true
-paginate: true
---------------
-
 # Taller de Aplicaciones de Inteligencia Artificial
 
 ## De documentos y conocimiento a un MVP con IA
